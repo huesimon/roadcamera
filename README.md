@@ -6,6 +6,7 @@
 - [ ] Cron-job / artisan command to run ever 10 min that stores a copy of the cameras (history view)
 - [ ] 
 
+Camera source = https://trafikkort.vejdirektoratet.dk/
 
 ## Models
 
