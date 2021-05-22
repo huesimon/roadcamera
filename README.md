@@ -5,6 +5,7 @@
 - [ ] Add cameras to a favorites list
 - [ ] Cron-job / artisan command to run ever 10 min that stores a copy of the cameras (history view)
 
+Camera source = https://trafikkort.vejdirektoratet.dk/
 
 ## Models
 
